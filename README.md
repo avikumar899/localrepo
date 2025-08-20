@@ -1,1 +1,1 @@
-# This is my local repo. Just for prctise.
+# This is my local repo. Just for practise.
